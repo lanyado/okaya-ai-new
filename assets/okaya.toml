@@ -1,0 +1,8 @@
+[environment]
+DB_Connection = "sample_database_token_from_env"
+Api_Token_okaya = "sample_api_token_from_env"
+
+[settings]
+LLM_enabled = ["LLM1", "LLM2"]
+Python_JS_versions_definition = ["Python: 3.9.5", "JS: ES6"]
+Resources_list = ["path/to/resource1.git", "path/to/resource2.git"]
